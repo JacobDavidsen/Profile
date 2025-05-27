@@ -4,9 +4,9 @@ url: "https://jdavidsen.github.io"
 theme: minima
 
 author:
-  name: "Jesper Davidsen"
+  name: "Jacob Davidsen"
   avatar: "/assets/images/profile.jpg"
-  bio: "Researcher in classroom interaction, technology, and education"
+  bio: "Researcher in collaboration in digital contexts"
 
 plugins:
   - jekyll-feed
