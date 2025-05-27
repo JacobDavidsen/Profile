@@ -2,9 +2,14 @@
 layout: home
 title: "Welcome"
 ---
+<div style="max-width: 300px; margin: 0 auto; text-align: center; border: 1px solid #e0e0e0; border-radius: 12px; padding: 20px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
 
-<div style="float: left; margin-right: 20px; width: 200px;">
-  <img src="/assets/images/profile.png" alt="Jacob Davidsen" style="width: 100%; border-radius: 10px;">
+  <img src="/assets/images/profile.jpg" alt="Jacob Davidsen" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; margin-bottom: 15px;">
+
+  <h2 style="margin: 0;">Jacob Davidsen</h2>
+  <p style="margin: 0; font-size: 16px; color: #666;">Associate Professor</p>
+  <p style="margin-top: 10px; font-size: 14px; color: #444;">Department of Communication and Psychology<br>Aalborg University</p>
+
 </div>
 
 ## About Me
