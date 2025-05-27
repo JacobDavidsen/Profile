@@ -3,7 +3,7 @@ layout: home
 title: "Welcome"
 ---
 
-![Jacob Davidsen](/assets/images/profile.jpg)
+<img src="/assets/images/profile.jpg" alt="Jacob Davidsen" style="width:200px; border-radius: 50%;">
 
 ## About Me
 
