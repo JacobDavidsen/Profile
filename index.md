@@ -3,15 +3,17 @@ layout: home
 title: "Welcome"
 ---
 
-<div style="float: right; margin-left: 20px; width: 200px;">
+<div style="float: left; margin-right: 20px; width: 200px;">
   <img src="/assets/images/profile.jpg" alt="Jacob Davidsen" style="width: 100%; border-radius: 10px;">
 </div>
 
 ## About Me
 
-I am an Associate Professor at the Department of Communication and Psychology, Aalborg University. My research focuses on interaction, technology, and education, particularly in classroom settings.
+I am an Associate Professor at the Department of Communication and Psychology, Aalborg University.  
+My research focuses on interaction, technology, and education, particularly in classroom settings.
 
 🔗 [AAU VBN profile](https://vbn.aau.dk/en/persons/jdavidsen)
+
 
 ## Research Interests
 
