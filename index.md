@@ -4,7 +4,7 @@ title: "Welcome"
 ---
 <div style="max-width: 300px; margin: 0 auto; text-align: center; border: 1px solid #e0e0e0; border-radius: 12px; padding: 20px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
 
-  <img src="/assets/images/profile.jpg" alt="Jacob Davidsen" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; margin-bottom: 15px;">
+  <img src="/assets/images/profile.png" alt="Jacob Davidsen" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; margin-bottom: 15px;">
 
   <h2 style="margin: 0;">Jacob Davidsen</h2>
   <p style="margin: 0; font-size: 16px; color: #666;">Associate Professor</p>
