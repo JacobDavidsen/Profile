@@ -5,7 +5,7 @@ theme: minima
 
 author:
   name: "Jacob Davidsen"
-  avatar: "/assets/images/profile.jpg"
+  avatar: "/assets/images/profile.png"
   bio: "Researcher in collaboration in digital contexts"
 
 plugins:
