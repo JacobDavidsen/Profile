@@ -1,3 +1,9 @@
+<style>
+  body {
+    background-color: #e8f0fe; /* light grey, change to your preferred color */
+  }
+</style>
+
 ---
 layout: home
 title: "Welcome"
