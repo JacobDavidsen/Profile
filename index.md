@@ -4,7 +4,7 @@ title: "Welcome"
 ---
 
 <div style="float: left; margin-right: 20px; width: 200px;">
-  <img src="/assets/images/profile.jpg" alt="Jacob Davidsen" style="width: 100%; border-radius: 10px;">
+  <img src="/assets/images/profile.png" alt="Jacob Davidsen" style="width: 100%; border-radius: 10px;">
 </div>
 
 ## About Me
